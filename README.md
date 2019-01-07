@@ -6,4 +6,4 @@ Bonus: Prettify the board display
 
 ## BlackJack
 Create the game BlackJack to demonstrate an object-oriented approach
-Simplified version (HIT/STAY only)
+Simplified version (HIT/STAND only)
